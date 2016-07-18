@@ -1,3 +1,4 @@
 OPENGL
-Makefiles DO NOT WORK
-Only runs on Linux so far, working on multi-OS make
+make to compile
+working on clean command
+Only runs on Linux so far, working on multi-OS 
